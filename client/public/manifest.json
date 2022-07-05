@@ -1,0 +1,8 @@
+{
+  "short_name": "Articles App",
+  "name": "My Delicious Articles",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

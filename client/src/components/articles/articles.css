@@ -1,0 +1,38 @@
+.rare {
+  color: #DC143C
+}
+
+.well {
+  color: #8B4513
+}
+
+.articles {
+  padding: 5rem;
+}
+
+.articles header {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.articles a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.articles li {
+  display: block;
+}
+
+.loading {
+  text-align: center;
+  margin: 10rem;
+  font-size: 4rem
+}
+
+.error {
+  text-align: center;
+  margin: 10rem;
+  font-size: 2rem;
+  color: red;
+}
